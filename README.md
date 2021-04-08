@@ -6,8 +6,8 @@
 
 ## Following instructions have been given for the assignment -   
 
-To perform Visualization Task and make use different algorithms to
+-- To perform Visualization Task and make use different algorithms to
 predict label.
 
-Show at least 3 different Algorithms accuracies with the help of
+-- Show at least 3 different Algorithms accuracies with the help of
 graph.
