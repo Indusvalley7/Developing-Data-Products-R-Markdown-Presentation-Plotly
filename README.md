@@ -4,7 +4,7 @@
 # Name : Indu A
 # Task 1 : Prediction and comparing accuracies of different models using Supervised ML
 
-Following instructions have been given for the assignment -   
+## Following instructions have been given for the assignment -   
 
 To perform Visualization Task and make use different algorithms to
 predict label.
